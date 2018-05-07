@@ -1,0 +1,41 @@
+,p-score
+Estimate; SEX AND AGE - Under 5 years,9.359711611836919e-68
+Estimate; SEX AND AGE - 5 to 9 years,1.0154551205773803e-49
+Estimate; SEX AND AGE - 15 to 19 years,3.460870375447162e-05
+Margin of Error; SEX AND AGE - 15 to 19 years,0.0006579329056259235
+Margin of Error; SEX AND AGE - 25 to 34 years,0.004957259909481355
+Estimate; SEX AND AGE - 45 to 54 years,1.2163034508005643e-15
+Estimate; SEX AND AGE - 65 to 74 years,1.752067961379492e-51
+Estimate; SEX AND AGE - 21 years and over,1.4595735993067341e-123
+Estimate; SEX AND AGE - 62 years and over,1.7191908260348763e-166
+Estimate; SEX AND AGE - Male.1,1.4658330589182844e-41
+Percent; SEX AND AGE - 65 years and over.1,2.130802997937752e-133
+Estimate; SEX AND AGE - Male.2,2.36203811113068e-39
+Estimate; SEX AND AGE - Female.2,2.1376797674982493e-100
+Margin of Error; RACE - Two or more races,2.628582817549211e-16
+Margin of Error; RACE - One race - Black or African American,0.013090308606285295
+Estimate; RACE - One race - American Indian and Alaska Native,4.124395496363915e-105
+Estimate; RACE - One race - Asian - Asian Indian,0.0
+Margin of Error; RACE - One race - Asian - Chinese,3.755323158477093e-27
+Estimate; RACE - One race - Asian - Korean,0.004584890624319028
+Margin of Error; RACE - Two or more races.1,2.628582817549211e-16
+Estimate; RACE - Two or more races - White and American Indian and Alaska Native,7.987391888915385e-06
+Margin of Error; RACE - Two or more races - White and American Indian and Alaska Native,0.005149497149424258
+Estimate; RACE - Two or more races - White and Asian,7.35385141009617e-114
+Estimate; RACE - Two or more races - Black or African American and American Indian and Alaska Native,0.0009400834724507185
+Margin of Error; RACE - Black or African American,0.004515133263648903
+Estimate; RACE - American Indian and Alaska Native,7.337142003004842e-110
+Estimate; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Mexican,0.008303573951432676
+Margin of Error; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Cuban,0.02041857512091036
+Estimate; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Black or African American alone,0.0
+Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Black or African American alone,0.02380430387404247
+Estimate; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - American Indian and Alaska Native alone,8.255992619572867e-109
+Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Some other race alone,0.005924043045061826
+"Estimate; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races",1.2575904044874983e-41
+"Margin of Error; Total: - Less than $10,000",0.003561299721484362
+"Estimate; Total: - $10,000 to $14,999",2.4422550792966584e-38
+"Estimate; Total: - $15,000 to $19,999",6.354695564866221e-106
+"Estimate; Total: - $60,000 to $74,999",2.856549981878189e-72
+"Estimate; Total: - $75,000 to $99,999",7.574715859037582e-37
+"Estimate; Total: - $125,000 to $149,999",9.973620042998382e-23
+"Estimate; Total: - $150,000 to $199,999",8.988166399166471e-09

@@ -1,0 +1,41 @@
+,District,Prob
+0,"Berkshire, Hampshire, Franklin & Hampden",1.0
+1,Bristol & Norfolk,0.999999951920611
+2,Cape & Islands,0.9999999971854745
+3,Fifth Middlesex,0.9999999992912785
+4,First Bristol & Plymouth,1.0
+5,First Essex,0.9999999999999878
+6,First Essex & Middlesex,0.9992194885270287
+7,First Hampden & Hampshire,1.0
+8,First Middlesex,1.0
+9,First Middlesex & Norfolk,1.0
+10,First Plymouth & Bristol,0.9999999999996982
+11,First Suffolk,1.0
+12,First Suffolk & Middlesex,1.0
+14,First Worcester,0.9999999999999998
+15,Fourth Middlesex,1.0
+16,Hampden,1.0
+17,"Hampshire, Franklin & Worcester",1.0
+18,Middlesex & Suffolk,1.0
+19,Middlesex & Worcester,1.0
+20,Norfolk & Plymouth,1.5129701561266686e-89
+21,Norfolk & Suffolk,1.958429324289623e-30
+22,"Norfolk, Bristol & Middlesex",1.0569642349093052e-19
+23,"Norfolk, Bristol & Plymouth",1.0
+24,Plymouth & Barnstable,0.9999999800273631
+25,Plymouth & Norfolk,1.0
+27,Second Bristol & Plymouth,1.0
+28,Second Essex,1.0
+29,Second Essex & Middlesex,0.9999999999999958
+30,Second Hampden & Hampshire,1.0
+31,Second Middlesex,1.0
+32,Second Middlesex & Norfolk,1.0
+33,Second Plymouth & Bristol,1.0
+35,Second Suffolk,0.9988210351074089
+36,Second Suffolk & Middlesex,0.9999999999999905
+37,Second Worcester,1.0
+38,Third Essex,0.9999999999999938
+39,Third Middlesex,1.0
+40,Worcester & Middlesex,0.9999998413324335
+41,Worcester & Norfolk,0.999999978259718
+42,"Worcester, Hampden, Hampshire & Middlesex",1.0

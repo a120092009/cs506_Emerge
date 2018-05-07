@@ -1,2 +1,3 @@
-# cs506_Emerge
-Team Member: Tianyi Zhao, Yunqi Wang, Jie Guo
+# cs-506-emerge-MA
+Class project for CS 506
+
